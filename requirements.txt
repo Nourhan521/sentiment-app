@@ -3,4 +3,8 @@ matplotlib
 scikit-learn
 wordcloud
 pandas
-tenserflow
+tensorflow
+keras
+nltk
+joblib
+re
