@@ -7,4 +7,4 @@ tensorflow
 keras
 nltk
 joblib
-re
+regex
